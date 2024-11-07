@@ -18,11 +18,11 @@ if (str_contains(strtolower($database_version), "maria")) {
 
 $data = [
     "developers" => [
-        'Chaziz'
+        'icanttellyou'. 'ROllerozxa'
     ],
     "software" => [
         'sbVersion' => [
-            'title' => "OpenSB",
+            'title' => "eurocremSB",
             'info' => (new VersionNumber)->getVersionString(),
         ],
         'phpVersion' => [
