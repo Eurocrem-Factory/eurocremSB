@@ -5,7 +5,7 @@ return [
     "mysql" => [
         "database" => "sb",
         "username" => "root",
-        "password" => "",
+        "password" => "root",
         "host" => "127.0.0.1",
     ],
     "captcha" => [
@@ -19,7 +19,7 @@ return [
     "maintenance" => false,
     "cache" => false,
     "branding" => [
-        "name" => "OpenSB Instance",
+        "name" => "EurocremSB Instance",
         "slogan" => "Insert slogan here",
         "assets" => "/assets/placeholder",
     ],

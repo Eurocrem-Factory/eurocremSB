@@ -15,7 +15,7 @@ case "${machine}" in
 esac
 
 if [ "$machine" == "Windows" ]; then
-  sass_executable="sass.bat"
+  sass_executable="sass"
 else
   sass_executable="sass"
 fi
