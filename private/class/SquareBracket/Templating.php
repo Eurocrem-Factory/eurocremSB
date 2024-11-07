@@ -121,8 +121,7 @@ class Templating
             }
         }
 
-        $warningBannerTextIfOnNonChazizOwnedDomain = "Given recent allegations, if you do not want your uploads to remain
-        on " . $branding["name"] . ", please delete them. Uploading is currently disabled for now.";
+        $warningBannerTextIfOnNonChazizOwnedDomain = "NO CHILD RAPISTS/DOG FUCKERS ON THIS WEBSITE";
 
         if ($isChazizSB) {
             $showWarningBanner = true;
