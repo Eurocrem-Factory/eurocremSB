@@ -1,0 +1,26 @@
+{
+	"require": {
+		"twig/twig": "3.14.0",
+		"intervention/image": "^3.2",
+		"erusev/parsedown": "dev-master",
+		"php-ffmpeg/php-ffmpeg": "1.2.0",
+		"ext-pdo": "*",
+		"twig/string-extra": "3.13.0",
+		"psr/http-client": "1.0.3",
+		"twbs/bootstrap": "^5.3",
+		"twbs/bootstrap-icons": "^1.11",
+		"jaybizzle/crawler-detect": "^1.2",
+		"ext-curl": "*"
+	},
+	"minimum-stability": "stable",
+	"config": {
+		"platform": {
+			"php": "8.2"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"OpenSB\\": "private/"
+		}
+	}
+}

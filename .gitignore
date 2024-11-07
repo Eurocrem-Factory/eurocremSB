@@ -1,0 +1,48 @@
+## User-generated files
+private/logs/
+private/conf/config.php
+private/config/config.php
+private/templates/cache/
+templates/cache/
+cache/
+dynamic/pfp/
+dynamic/thumbnails/
+dynamic/banners/
+dynamic/videos/
+dynamic/videos_test/
+dynamic/art/
+dynamic/art_thumbnails/
+dynamic/custom_thumbnails/
+dynamic/music/
+dynamic/emojis/
+
+!*.txt
+
+## CSS
+/public/assets/css/*.css
+
+## Composer
+vendor/
+composer.phar
+composer.lock
+
+## Admin features
+adminer-*.php
+/latest-*-*.php
+pma
+phpmyadmin
+phpma
+
+# mariadb stuff from docker
+mariadb-data
+
+# output from 2024-02-video_url_export.php
+/tools/video_urls.txt
+
+# sound stuff
+*.bak
+*.sfk
+Ocean_Sound_Theme_OpenSB.wav
+
+# chat server config
+chat_server/config.py
