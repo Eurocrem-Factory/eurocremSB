@@ -22,7 +22,7 @@ $data = [
     ],
     "software" => [
         'sbVersion' => [
-            'title' => "OpenSB",
+            'title' => "eurocremSB",
             'info' => (new VersionNumber)->getVersionString(),
         ],
         'phpVersion' => [
